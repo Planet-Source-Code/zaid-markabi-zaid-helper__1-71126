@@ -1,0 +1,88 @@
+ZaidHelper ActiveX SDK Released
+75 functions in one ActiveX ,Zip&Unzip ,Capture Screen ,Split&Combine Files ,Windows Setting ,Command Buttons ,Progress charts and more...
+
+You can see examples to learn complex functions..
+Get it now , and vote for me please..
+
+It supports 75 speedy functions!
+
+CaptureScreenToFile
+CDcloseDoor
+CDopenDoor
+ChangeDriveName
+CharFind
+CombFile
+CommonDailogOpen
+CommonDailogSave
+CopyFile
+CreateFolder
+DataBase_Add
+DataBase_Close
+DataBase_Find
+DataBase_Get
+DataBase_IsAdded
+DataBase_Open
+DeleteFile
+DrawAnimatedText
+DrawDate
+DrawDayName
+DrawMmonthName
+DrawProgressCircle
+DrawTime
+GetDayName
+GetFileSize
+GetMmonthName
+GetWindowsComputerName
+GetWindowsCursorPixelColor
+GetWindowsCursorPixelRGB
+GetWindowsDriveFreeSize
+GetWindowsDriveTotalSize
+GetWindowsDriveType
+GetWindowsDriveUsedSize
+GetWindowsKeyPressed
+GetWindowsScreen
+GetWindowsScreenAsPicture
+GetWindowsSystemPath
+GetWindowsTempPath
+GetWindowsTimeCount
+GetWindowsUserName
+GetWindowsVersion
+GetWindowsWallpaper
+IsConnected
+IsFileLocated
+MoveFile
+OpenPictureFromFile
+OpenWebPage
+PlayVideoFile
+PrintToFile
+SavePictureToFile
+SetAsCommandButton
+SetFileMode
+SetVolume
+SetWindowHidden
+SetWindowOnTop
+SetWindowsCursorEnable
+SetWindowsCursorPos
+SetWindowsDesktopEnable
+SetWindowsEmptyRecycleBin
+SetWindowsEnableMouseKeyboard
+SetWindowShapeCircle
+SetWindowShapeElliptic
+SetWindowShapeRectAngle
+SetWindowShapeRoundRect
+SetWindowsScreenSize
+SetWindowsStartMenuEnable
+ShowRAMStatus
+Sleep
+SplitFile
+TextDeleted
+TextReplace
+UnZipFile
+ZipFile
+
+Today , you can feel the programming more easy!!
+
+Get it now , and vote for me please..
+
+
+Zaid Markabi
