@@ -1,0 +1,9 @@
+You should compile ActiveX project ( using VB6 ) .
+After that , run any example project .
+
+If you had an error, Add compiled ActiveX OCX file to your project ( to your components ) .
+
+thanks all
+
+
+Zaid Markabi.
